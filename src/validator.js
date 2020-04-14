@@ -4,7 +4,6 @@
 // ya que los array comienzan en 0
 // i >= 0 porque 0 es mi posicion inicial 
 // i-- recorro el for al inverso  
-
 const validator = {
 
     isValid: function (creditCardNumber) {
